@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mani Kanta</h1>
 <h3 align="center">A passionate MERN Developer from India</h3>
 
-- 🔭 I’m currently working on **Cryptocurrency Dashboard**
+- 🔭 I’m currently working on **Get YouTube Subscribers**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
