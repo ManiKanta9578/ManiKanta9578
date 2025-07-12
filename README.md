@@ -15,17 +15,46 @@
 
 - 📫 Reach me at: **manikanta9578@gmail.com**
 
+---
+
+<h3 align="left">📌 Project Showcase</h3>
+
+### 🚀 [Advanced Todo App (In Progress)](https://github.com/ManiKanta9578)
+> A productivity-focused PWA with offline capabilities
+
+- Built with **Next.js (App Router)**, **Tailwind CSS**, **PostgreSQL**, **Express.js**
+- Features:
+  - JWT authentication using **NextAuth.js**
+  - State time-travel using **useReducer** and **Immer**
+  - PWA support with **IndexedDB** for offline sync
+- Goal: Task management with undo/redo and cross-device persistence
+
+---
+
+### 🚌 [Reserve Bus](https://github.com/ManiKanta9578)
+> A responsive bus ticket booking platform
+
+- Stack: **React.js**, **Node.js**, **Express.js**, **MongoDB**
+- Features:
+  - Smart search & filter to quickly discover available buses
+  - Booking history & ticket management
+  - Clean and intuitive UI
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mani-kanta-kotni" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mani Kanta LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:manikanta9578@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Black/Email.png" alt="Email" height="30" width="40"/>
+    <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHistory_of_Gmail&psig=AOvVaw1kFLdzpGDJ4B9RYDulHQlB&ust=1752404176745000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCIlLiUt44DFQAAAAAdAAAAABAE" alt="Email" height="30" width="40"/>
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> </a>
@@ -38,6 +67,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="Vercel" width="40" height="40"/> </a>
 </p>
+
+---
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="left">
