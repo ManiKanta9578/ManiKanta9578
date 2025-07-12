@@ -1,80 +1,89 @@
-<h1 align="center">Hi 👋, I'm Mani Kanta</h1>
-<h3 align="center">A passionate Full-Stack MERN Developer from India</h3>
+<h1 align="center">👋 Hi, I'm Mani Kanta</h1>
+<h3 align="center">Full-Stack MERN Developer | Passionate about building modern, scalable web apps</h3>
 
-- 🌱 I’m currently working as a **Software Developer at ZingHR**
-
-- 🧠 I'm mastering **React.js, Next.js (App Router), Node.js, and Express.js**
-
-- 📜 Recently earned:  
-  **[Next.js App Router Fundamentals – Vercel](https://nextjs.org/learn/certificate?course=dashboard-app&user=75494&certId=dashboard-app-75494-1751193216445)**  
-  **[Programming with JavaScript – Meta](https://coursera.org/verify/Q7786RZ6UCAL)**
-
-- 💼 I’ve worked with clients like **SBI** and **Reliance** building scalable HRMS web apps
-
-- ⚡ Fun fact: **I like debugging tricky bugs & telling bad jokes 😄**
-
-- 📫 Reach me at: **manikanta9578@gmail.com**
+<p align="center">
+  <a href="mailto:manikanta9578@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mani-kanta-kotni" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ManiKanta9578" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-<h3 align="left">📌 Project Showcase</h3>
+### 💡 About Me
 
-### 🚀 [Advanced Todo App (In Progress)]([https://github.com/ManiKanta9578](https://advanced-todo-app-ebon.vercel.app/))
-> A productivity-focused PWA with offline capabilities
-
-- Built with **Next.js (App Router)**, **Tailwind CSS**, **PostgreSQL**, **Express.js**
-- Features:
-  - JWT authentication using **NextAuth.js**
-  - State time-travel using **useReducer** and **Immer**
-  - PWA support with **IndexedDB** for offline sync
-- Goal: Task management with undo/redo and cross-device persistence
+- 🔭 Working as **Software Developer at ZingHR**, delivering enterprise-grade HRMS solutions.
+- 👨‍💻 Strong command over **React.js**, **Next.js (App Router)**, **Node.js**, **Express.js**, and **MongoDB**.
+- 💼 Contributed to large-scale projects for clients like **SBI** and **Reliance**.
+- 🎓 Certified in:
+  - [Next.js App Router Fundamentals – Vercel](https://nextjs.org/learn/certificate?course=dashboard-app&user=75494&certId=dashboard-app-75494-1751193216445)
+  - [Programming with JavaScript – Meta](https://coursera.org/verify/Q7786RZ6UCAL)
+- ✨ Fun Fact: I love **debugging tricky bugs** & telling **bad jokes** 😄
 
 ---
 
-### 🚌 [Reserve Bus](https://github.com/ManiKanta9578)
-> A responsive bus ticket booking platform
+### 🚀 Project Showcase
+
+#### 🧠 [Advanced Todo App (Live Preview)](https://advanced-todo-app-ebon.vercel.app/)
+> ✨ A performance-focused productivity app with offline-first capabilities.
+
+- 🔧 Built with: **Next.js App Router**, **Tailwind CSS**, **PostgreSQL**, **Express.js**
+- 🔐 JWT Auth via **NextAuth.js**
+- 🌀 Undo/Redo support using **useReducer** & **Immer**
+- 📦 IndexedDB for offline persistence
+- 🚀 PWA-enabled for fast, installable experience
+
+---
+
+#### 🚌 [Reserve Bus](https://github.com/ManiKanta9578)
+> 🧳 A full-featured bus ticket booking platform.
 
 - Stack: **React.js**, **Node.js**, **Express.js**, **MongoDB**
-- Features:
-  - Smart search & filter to quickly discover available buses
-  - Booking history & ticket management
-  - Clean and intuitive UI
+- 🎯 Smart search + filter
+- 🧾 Booking history & ticket management
+- 🖥️ Responsive & clean UI
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/mani-kanta-kotni" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mani Kanta LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/mani-kanta-kotni" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
-  <a href="mailto:manikanta9578@gmail.com" target="blank">
-    <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHistory_of_Gmail&psig=AOvVaw1kFLdzpGDJ4B9RYDulHQlB&ust=1752404176745000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCIlLiUt44DFQAAAAAdAAAAABAE" alt="Email" height="30" width="40"/>
+  &nbsp;
+  <a href="mailto:manikanta9578@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Black/Email.png" alt="Email" width="30" height="30"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+### 🛠️ Tech Stack
+
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="Vercel" width="40" height="40"/> </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" />
+  <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="40" height="40" alt="Vercel" />
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manikanta9578&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManiKanta9578&show_icons=true&theme=radical" alt="ManiKanta9578 Stats" height="180"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikanta9578" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManiKanta9578&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManiKanta9578&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
