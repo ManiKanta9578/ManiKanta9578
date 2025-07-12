@@ -19,7 +19,7 @@
 
 <h3 align="left">📌 Project Showcase</h3>
 
-### 🚀 [Advanced Todo App (In Progress)](https://github.com/ManiKanta9578)
+### 🚀 [Advanced Todo App (In Progress)]([https://github.com/ManiKanta9578](https://advanced-todo-app-ebon.vercel.app/))
 > A productivity-focused PWA with offline capabilities
 
 - Built with **Next.js (App Router)**, **Tailwind CSS**, **PostgreSQL**, **Express.js**
